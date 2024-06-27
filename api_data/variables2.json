@@ -1,0 +1,408 @@
+[{
+    "name": "zmiana liczby ludności na 1000 mieszkańców",
+  "id": "P2425",
+  "tematy": [
+    {
+    "id": 458603,
+    "subjectId": "P2425",
+    "n1": "zmiana liczby ludności na 1000 mieszkańców",
+    "level": 5,
+    "measureUnitId": 35,
+    "measureUnitName": "ob."
+  }
+  ]
+  },
+  {
+    "name": "ludność w tysiącach",
+  "id": "P2425",
+  "tematy": [
+    {
+      "id": 1645341,
+      "subjectId": "P2425",
+      "n1": "ludność w tysiącach",
+      "level": 5,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    }
+  ]
+  },
+  {
+  "name": "Instytucje muzyczne",
+   "id": "P2875",
+   "tematy": [
+     {
+       "id": 194928,
+       "subjectId": "P2875",
+       "n1": "jednostki",
+       "n2": "chór",
+       "level": 7,
+       "measureUnitId": 1,
+       "measureUnitName": "-"
+     },
+     {
+       "id": 194925,
+       "subjectId": "P2875",
+       "n1": "jednostki",
+       "n2": "filharmonia",
+       "level": 7,
+       "measureUnitId": 1,
+       "measureUnitName": "-"
+     },
+     {
+       "id": 194922,
+       "subjectId": "P2875",
+       "n1": "jednostki",
+       "n2": "orkiestra symfoniczna i kameralna",
+       "level": 7,
+       "measureUnitId": 1,
+       "measureUnitName": "-"
+     }
+   ]
+ },
+  {
+     "name": "Biblioteki publiczne",
+    "id": "P1688",
+    "tematy": [
+      {
+      "id": 1230,
+      "subjectId": "P1688",
+      "n1": "biblioteki i filie",
+      "level": 7,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    }
+    ]
+  },
+  {
+    "name": "Kina",
+    "id": "P1687",
+    "tematy": [
+       {
+      "id": 148551,
+      "subjectId": "P1687",
+      "n1": "ogółem",
+      "n2": "ogółem",
+      "level": 7,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    }
+    ]
+  },
+  {
+    "name": "Muzea",
+    "id": "P1679",
+    "tematy": [
+      {
+      "id": 1241,
+      "subjectId": "P1679",
+      "n1": "muzea łącznie z oddziałami",
+      "level": 7,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    }
+    ]
+  },
+  {
+    "name": "Teatry",
+    "id": "P2874",
+    "tematy": [
+      {
+      "id": 194952,
+      "subjectId": "P2874",
+      "n1": "jednostki",
+      "n2": "teatr dramatyczny",
+      "level": 7,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    }
+    ]
+  },
+  {
+    "name": "Imprezy artystyczne",
+    "id": "P3402",
+    "tematy": [
+      {
+      "id": 410716,
+      "subjectId": "P3402",
+      "n1": "liczba imprez",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 1,
+      "measureUnitName": "-"
+    }
+    ]
+  },
+  {
+    "name": "Domy kultury",
+    "id": "P3402",
+    "tematy": [
+      {
+      "id": 1609349,
+      "subjectId": "P2284",
+      "n1": "centra kultury, domy i ośrodki kultury, kluby i świetlice na 10 tys. ludności",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    }
+    ]
+  },
+  {
+    "name": "Długość dróg dla rowerów",
+    "id": "P3164",
+    "tematy": [
+       {
+      "id": 288080,
+      "subjectId": "P3164",
+      "n1": "drogi dla rowerów ogółem",
+      "level": 6,
+      "measureUnitId": 15,
+      "measureUnitName": "km"
+    }
+    ]
+  },
+  {
+    "name": "Czynne przystanki komunikacji miejskiej",
+    "id": "P3826",
+    "tematy": [
+      {
+      "id": 1365258,
+      "subjectId": "P3826",
+      "n1": "przystanki autobusowe (z trolejbusowymi) i tramwajowe",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 8,
+      "measureUnitName": "szt."
+    }
+    ]
+  },
+  {
+    "name": "Obiekty sportowe",
+    "id": "P3881",
+    "tematy": [
+      {
+      "id": 1601437,
+      "subjectId": "P3881",
+      "n1": "boiska",
+      "n2": "boiska piłkarskie",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601438,
+      "subjectId": "P3881",
+      "n1": "boiska",
+      "n2": "boiska do koszykówki",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601439,
+      "subjectId": "P3881",
+      "n1": "boiska",
+      "n2": "boiska do piłki ręcznej",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601440,
+      "subjectId": "P3881",
+      "n1": "boiska",
+      "n2": "boiska do piłki siatkowej",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601441,
+      "subjectId": "P3881",
+      "n1": "boiska",
+      "n2": "boiska uniwersalne - wielozadaniowe",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601448,
+      "subjectId": "P3881",
+      "n1": "hale sportowe o wymiarach od 36x19 m",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },{
+      "id": 1601481,
+      "subjectId": "P3881",
+      "n1": "korty tenisowe",
+      "n2": "otwarty",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601482,
+      "subjectId": "P3881",
+      "n1": "korty tenisowe",
+      "n2": "kryty",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601487,
+      "subjectId": "P3881",
+      "n1": "pływalnie kryte",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },{
+      "id": 1601509,
+      "subjectId": "P3881",
+      "n1": "inne obiekty",
+      "n2": "strzelnice",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601510,
+      "subjectId": "P3881",
+      "n1": "inne obiekty",
+      "n2": "lodowiska sztucznie mrożone",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601511,
+      "subjectId": "P3881",
+      "n1": "inne obiekty",
+      "n2": "skocznie narciarskie",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601512,
+      "subjectId": "P3881",
+      "n1": "inne obiekty",
+      "n2": "skateparki",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 1601604,
+      "subjectId": "P3881",
+      "n1": "inne obiekty",
+      "n2": "siłownie zewnętrzne",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    }
+    ]
+  },
+  {
+    "name": "Powierzchnia gruntów leśnych",
+    "id": "P1487",
+    "tematy": [
+      {
+      "id": 2037,
+      "subjectId": "P1487",
+      "n1": "ogółem",
+      "level": 6,
+      "measureUnitId": 17,
+      "measureUnitName": "ha"
+    }
+    ]
+  },
+  {
+    "name": "Tereny zieleni",
+    "id": "P2596",
+    "tematy": [
+       {
+      "id": 73855,
+      "subjectId": "P2596",
+      "n1": "zieleńce",
+      "n2": "obiekty",
+      "n3": "ogółem (w miastach i na wsi)",
+      "level": 6,
+      "measureUnitId": 8,
+      "measureUnitName": "szt."
+    },{
+      "id": 73854,
+      "subjectId": "P2596",
+      "n1": "parki spacerowo - wypoczynkowe",
+      "n2": "obiekty",
+      "n3": "ogółem (w miastach i na wsi)",
+      "level": 6,
+      "measureUnitId": 8,
+      "measureUnitName": "szt."
+    }
+    ]
+  },{
+    "name": "Apteki ogólnodostępne",
+    "id": "P2873",
+    "tematy": [
+      {
+      "id": 194884,
+      "subjectId": "P2873",
+      "n1": "apteki",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    }
+    ]
+  },{
+    "name": "Mieszkania oddane do użytkowania",
+    "id": "P3824",
+    "tematy": [
+       {
+      "id": 748601,
+      "subjectId": "P3824",
+      "n1": "ogółem",
+      "n2": "mieszkania",
+      "level": 7,
+      "measureUnitId": 1,
+      "measureUnitName": "-"
+    }
+    ]
+  },{
+    "name": "Szkoły podstawowe",
+    "id": "P2801",
+    "tematy": [
+      {
+      "id": 151866,
+      "subjectId": "P2801",
+      "n1": "ogółem",
+      "level": 7,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    }
+    ]
+  },{
+    "name": "Uczelnie, studenci i absolwenci (",
+    "id": "P3226",
+    "tematy": [
+      {
+      "id": 377826,
+      "subjectId": "P3226",
+      "n1": "uczelnie macierzyste",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    },
+    {
+      "id": 377821,
+      "subjectId": "P3226",
+      "n1": "filie",
+      "level": 6,
+      "measureUnitId": 35,
+      "measureUnitName": "ob."
+    }
+    ]
+  }
+]
